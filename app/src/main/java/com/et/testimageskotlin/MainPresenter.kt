@@ -16,6 +16,7 @@ class MainPresenter(private val context: Context, private val img_recycler: Recy
 
     init {
         createUrlList()
+        
     }
 
     private fun createUrlList(){
