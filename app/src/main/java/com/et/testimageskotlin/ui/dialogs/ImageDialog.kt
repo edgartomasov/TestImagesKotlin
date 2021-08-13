@@ -17,6 +17,7 @@ class ImageDialog(context: Context,
 
     // TEST 1 TEST 1
 
+    // TEST_2
     private lateinit var main_cl: ConstraintLayout
     private lateinit var title: TextView
     private lateinit var dialog_img: ImageView
