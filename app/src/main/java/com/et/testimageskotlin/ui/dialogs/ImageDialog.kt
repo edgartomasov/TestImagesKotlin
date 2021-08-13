@@ -15,6 +15,7 @@ import com.et.testimageskotlin.models.ImgModel
 class ImageDialog(context: Context,
                   private val imgModel: ImgModel) : Dialog(context) {
 
+    // TEST_2 TEST_2
     // TEST 1 TEST 1
 
     // TEST_2
