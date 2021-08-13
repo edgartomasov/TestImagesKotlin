@@ -15,7 +15,7 @@ import com.et.testimageskotlin.models.ImgModel
 class ImageDialog(context: Context,
                   private val imgModel: ImgModel) : Dialog(context) {
 
-    // TEST 1 TEST 1
+    // TEST 1 TEST 1 TEST 1
 
     private lateinit var main_cl: ConstraintLayout
     private lateinit var title: TextView
